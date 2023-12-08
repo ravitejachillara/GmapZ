@@ -72,6 +72,6 @@ If you want to contact me, you can reach me at `iamravitejachillara@gmail.com`.
 
 ## License
 
-This project uses the following license: [MIT License](<link to your license>).
+This project uses the following license: [MIT License](https://github.com/ravitejachillara/GmapZ/blob/main/LICENSE)
 
 
