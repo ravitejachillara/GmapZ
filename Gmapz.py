@@ -72,7 +72,7 @@ def start_fetching(location, keyword, progress, label):
 
 def main():
     root = tk.Tk()
-    root.title("GmapZ")
+    root.title("GmapZ - RaviTejaChillara")
 
     tk.Label(root, text="Coordinates (latitude,longitude):").pack()
     location_entry = tk.Entry(root)
